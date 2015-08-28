@@ -15,7 +15,7 @@
   "author": "Garth Poitras",
   "license": "MIT",
   "dependencies": {
-    "broccoli-less-single": "git://github.com/kwikPRs/broccoli-less-single.git",
+    "broccoli-less-single": "git://github.com/SSS2557/broccoli-less-single.git",
     "broccoli-merge-trees": "^0.2.1",
     "ember-cli-version-checker": "^1.0.2",
     "lodash-node": "^2.4.1"
